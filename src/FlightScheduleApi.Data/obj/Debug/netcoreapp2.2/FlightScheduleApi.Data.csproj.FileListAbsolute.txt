@@ -1,0 +1,15 @@
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Data.deps.json
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Data.runtimeconfig.json
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Data.runtimeconfig.dev.json
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Data.dll
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Data.pdb
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Business.dll
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\bin\Debug\netcoreapp2.2\FlightScheduleApi.Business.pdb
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.csprojAssemblyReference.cache
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.AssemblyInfoInputs.cache
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.AssemblyInfo.cs
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.csproj.CoreCompileInputs.cache
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.csproj.CopyComplete
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.dll
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.pdb
+C:\ProjetosGitHub\FlightScheduleApi\src\FlightScheduleApi.Data\obj\Debug\netcoreapp2.2\FlightScheduleApi.Data.genruntimeconfig.cache
