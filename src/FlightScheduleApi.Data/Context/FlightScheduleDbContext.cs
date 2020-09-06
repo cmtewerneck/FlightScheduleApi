@@ -13,6 +13,7 @@ namespace FlightScheduleApi.Data.Context
 
             public DbSet<Produto> Produtos { get; set; }
             public DbSet<Fornecedor> Fornecedores { get; set; }
+            public DbSet<Aeronave> Aeronaves { get; set; }
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {

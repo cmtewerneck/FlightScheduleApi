@@ -19,11 +19,13 @@ namespace FlightScheduleApi.Api.Configurations
         {
             services.AddScoped<FlightScheduleDbContext>();
             services.AddScoped<IProdutoRepository, ProdutoRepository>();
+            services.AddScoped<IAeronaveRepository, AeronaveRepository>();
             services.AddScoped<IFornecedorRepository, FornecedorRepository>();
             services.AddSingleton<IValidationAttributeAdapterProvider, MoedaValidationAttributeAdapterProvider>();
 
             services.AddScoped<INotificador, Notificador>();
             services.AddScoped<IFornecedorServices, FornecedorService>();
+            services.AddScoped<IAeronaveServices, AeronaveService>();
             services.AddScoped<IProdutoServices, ProdutoService>();
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
